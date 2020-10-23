@@ -1,6 +1,7 @@
 # pybot
 A python bot that can automatically send specific messages when triggered.
 The bot ("bot.py") reads the text message from the file: "file.txt" and automatically types it and presses enter on your keyboard to send it.
+You can bookmark <a href="https://kooldamian28.github.io/pybot/">this page</a> also for easy reference: <a href="https://kooldamian28.github.io/pybot/">kooldamian28.github.io/pybot/</a>
 
 # Instructions
 1. Enter your personal message in "file.txt"
