@@ -14,6 +14,6 @@ The bot is programmed to wait for 5 seconds before typing, if you want to adjust
 In line 4 you can adjust the bot to open any file you want, in the format, a = open("anyfile"), where "anyfile" is the file you want to open.
 
 # Notice
-The license that I used for this project is <a href="https://choosealicense.com/licenses/unlicense/">The Unlicense</a>, as a result, by using this software you agree with the Terms, Conditions and Limitations of the <a href="https://choosealicense.com/licenses/unlicense/">license</a>. 
+The license that I used for this project is <a href="https://opensource.org/licenses/BSD-3-Clause">The BSD-3-Clause</a>, as a result, by using this software you agree with the Terms, Conditions and Limitations of the <a href="https://opensource.org/licenses/BSD-3-Clause">license</a>. 
 
-**IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.**
+**IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.**
