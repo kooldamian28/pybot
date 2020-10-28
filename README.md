@@ -13,7 +13,7 @@ The bot is programmed to wait for 5 seconds before typing, if you want to adjust
 
 In line 4 you can adjust the bot to open any file you want, in the format, a = open("anyfile"), where "anyfile" is the file you want to open.
 
-###### Notice
+# Notice
 The license that I used for this project is <a href="https://choosealicense.com/licenses/unlicense/">The Unlicense</a>, as a result, by using this software you agree with the Terms, Conditions and Limitations of the <a href="https://choosealicense.com/licenses/unlicense/">license</a>. 
 
 **IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.**
