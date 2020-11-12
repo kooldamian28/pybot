@@ -14,11 +14,13 @@ The bot is programmed to wait for 5 seconds before typing, if you want to adjust
 In line 4 you can adjust the bot to open any file you want, in the format, a = open("anyfile"), where "anyfile" is the file you want to open.
 
 ## Instructions for the release (pybot 2.0):
+Download the bot here: [pybot 2.0](https://github.com/kooldamian28/pybot/releases/download/2.0.0/pybot.exe)
+
 Make sure a file named "file" in the text format (.txt) is in in the same directory where this application is running. For example, if "pybot.exe" is there in a directory named "foobar", "file.txt" should also be in "foobar".
 
 "file.txt" is where you are supposed to enter the text that you want to the application to type.
 
-Instructions:
+### Instructions:
 1. Make sure "pybot.exe" and "file.txt" is in the same directory.
 2. Enter your personal message in "file.txt".
 3. Go to cmd and cd into the directory where "pybot.exe" and "file.txt" is present, then run the program from command-line by entering
