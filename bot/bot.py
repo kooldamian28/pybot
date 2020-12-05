@@ -1,8 +1,8 @@
 import pyautogui, time
 time.sleep(5)
 
-a = open("file.txt")
+file = open("file.txt")
 
-for word in a:
+for word in file:
   pyautogui.typewrite(word)
   pyautogui.press("enter")
