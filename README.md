@@ -26,8 +26,3 @@ Make sure a file named "file" in the text format (.txt) is in in the same direct
 3. Go to cmd and cd into the directory where "pybot.exe" and "file.txt" is present, then run the program from command-line by entering
 "pybot.exe".
 4. Click on the text field you want the bot to type in within 5 seconds.
-
-# Notice
-The license that I used for this software is <a href="https://opensource.org/licenses/BSD-3-Clause">The BSD-3-Clause</a>, as a result, by using this software you agree with the Terms, Conditions and Limitations of the <a href="https://opensource.org/licenses/BSD-3-Clause">license</a>. 
-
-**THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.**
